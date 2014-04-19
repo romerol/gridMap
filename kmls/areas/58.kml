@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>58.kml</name>
+	<Style id="failed">
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed0">
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>58</name>
+		<styleUrl>#failed1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-54.25571061032083,-26.67651702434399,0 -54.25476844592074,-26.67673484766612,0 -54.25467033018863,-26.67618620050356,0 -54.25460480174866,-26.67576496278018,0 -54.25471419109697,-26.67572163281904,0 -54.25494473556491,-26.67560348545368,0 -54.25516151121217,-26.67543095387754,0 -54.25536286376521,-26.67527063702046,0 -54.25571061032083,-26.67651702434399,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
