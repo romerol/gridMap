@@ -1,0 +1,17 @@
+html, body, #map-canvas {
+	height: 500px;
+	width: 100%;
+	margin: 0px;
+	padding: 0px
+}
+
+.rounded{
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+}
+
+#logo img{
+	width: 30px;
+	height: 30px;
+}
