@@ -1,0 +1,22 @@
+{
+  "name": "gridMap",
+  "version": "1.0.0",
+  "description": "gridMap =======",
+  "main": "app.js",
+  "dependencies":{
+  "express":"4.1.0"
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romerol/gridMap.git"
+  },
+  "author": "romerol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romerol/gridMap/issues"
+  },
+  "homepage": "https://github.com/romerol/gridMap"
+}
