@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/romerol/gridMap/issues"
   },
-  "homepage": "https://github.com/romerol/gridMap"
+  "homepage": "https://github.com/romerol/gridMap",
+  "engines": {
+    "node": "0.10.x"
+  }  
 }
